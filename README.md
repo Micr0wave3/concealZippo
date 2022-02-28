@@ -7,4 +7,12 @@ Renders of this bare model are to be seen below.
 
 ![alt text](https://github.com/Micr0wave3/concealZippo/blob/main/renders/zippo_carry_front.png?raw=true)
 
+![alt text](https://github.com/Micr0wave3/concealZippo/blob/main/renders/zippo_carry_side.png?raw=true)
+
+![alt text](https://github.com/Micr0wave3/concealZippo/blob/main/renders/zippo_carry_back.png?raw=true)
+
+![alt text](https://github.com/Micr0wave3/concealZippo/blob/main/renders/zippo_carry_irl.png?raw=true)
+
 The hole sizes and spacing are seen below.
+
+![alt text](https://github.com/Micr0wave3/concealZippo/blob/main/renders/Dimensions.png?raw=true)
